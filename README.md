@@ -85,7 +85,8 @@ and to stop the whole bot,
 > python3 -m WebStreamer
 > ```
 > now you can close the VPS and the bot will run on it.
-
+### replit一键部署(测试中)
+[![Run on Repl.it](https://replit.com/badge/github/yym68686/ChatGPT-Bing-Telegram-Bot)](https://replit.com/new/github/lystv/Bot)
 ### Deploy using Docker
 First clone the repository
 ```sh
